@@ -38,9 +38,5 @@ This project is a full-stack application that implements a secure authentication
 - Tailwind CSS
 - Axios for API requests
 
-## Project Setup
 
-1. Clone the repository:
-   ```bash
-   git clone <REMOTE_URL>
 
